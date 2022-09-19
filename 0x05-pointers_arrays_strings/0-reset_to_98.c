@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-* rest_to_98 - a function that takes a point and
+* reset_to_98 - a function that takes a point and
 * updates the value it points to 98
 * @n: input
 * Return: n
