@@ -25,7 +25,7 @@ if ((*(s + (count + 1)) >= 97) && (*(s + (count + 1)) <= 122))
 break;
 }
 }
-counter++;
+count++;
 }
 return (s);
 }
